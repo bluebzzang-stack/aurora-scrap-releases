@@ -8,7 +8,8 @@ This is the official release distribution repository maintained by the Aurora Sc
 
 - **Windows:** [Get Aurora Scrap from Microsoft Store](https://apps.microsoft.com/detail/XP99GV8VFVZ5N5).
 - **macOS:** [Download the latest release](https://github.com/bluebzzang-stack/aurora-scrap-releases/releases/latest). Choose the DMG for your Mac's processor.
-- **Demo:** [Watch the web-page saving workflow demo (MP4)](https://scrap.waple.net/movies/03.Scrap_Flow.mp4). No sign-in is required to watch. This silent demo uses the English interface with on-screen explanations.
+- **Demo:** [Watch the illustrative web-page saving workflow demo (MP4)](https://scrap.waple.net/guides/assets/aurora-scrap-demo-english.mp4). No sign-in is required to watch. This silent demo illustrates the workflow with an English interface and on-screen explanations.
+- **Demo transcript · 대본 · 全文 · 文字稿:** [English](docs/demo/en.md) · [한국어](docs/demo/ko.md) · [日本語](docs/demo/ja.md) · [简体中文](docs/demo/zh.md).
 - **Product details:** [Visit the official website](https://scrap.waple.net/?lang=en).
 
 Start free with **2 workspaces, up to 1 GB each**. Paid licenses are sold separately as a one-time purchase for the current major version; see [plans and license terms](https://scrap.waple.net/purchase.php?lang=en) for current details.
