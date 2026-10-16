@@ -27,6 +27,12 @@ The guides include a saving walkthrough and a downloadable research-note templat
 | 日本語 | [Webページを保存し、メモで活用する資料収集ガイド](https://scrap.waple.net/guides/ja/) |
 | 简体中文 | [保存网页并添加笔记的资料收集指南](https://scrap.waple.net/guides/zh/) |
 
+## Compare three references before choosing a design
+
+Use the free comparison worksheet to separate observations, interpretations, and a design decision. Fill it in manually; the app does not automatically compare or score pages.
+
+[English](https://scrap.waple.net/guides/en/compare-references/) · [한국어](https://scrap.waple.net/guides/ko/compare-references/) · [日本語](https://scrap.waple.net/guides/ja/compare-references/) · [简体中文](https://scrap.waple.net/guides/zh/compare-references/)
+
 **한국어:** 웹페이지를 내 컴퓨터에 저장하고 카테고리·라벨·메모로 정리하는 Windows·macOS 앱입니다. 무료로 워크스페이스 2개를 만들고 각각 최대 1GB를 저장할 수 있습니다.
 
 **日本語:** Webページをパソコンに保存し、カテゴリ・ラベル・メモで整理するWindows・macOSアプリです。無料でワークスペースを2つ作成でき、それぞれ最大1GBまで保存できます。
