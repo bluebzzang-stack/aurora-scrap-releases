@@ -27,6 +27,12 @@ The guides include a saving walkthrough and a downloadable research-note templat
 | 日本語 | [Webページを保存し、メモで活用する資料収集ガイド](https://scrap.waple.net/guides/ja/) |
 | 简体中文 | [保存网页并添加笔记的资料收集指南](https://scrap.waple.net/guides/zh/) |
 
+## Free offline worksheet kit
+
+[Download the four-language worksheet kit (ZIP)](docs/worksheets/aurora-scrap-worksheet-kit.zip) · [Usage instructions](docs/worksheets/README.txt)
+
+Includes eight plain-text worksheets: one research note and one three-reference comparison worksheet in Korean, English, Japanese, and Simplified Chinese. Extract the ZIP, open your language folder, and fill in a copy in any text editor. No account or purchase is required. These are manual worksheets, not automatic comparison features. Prepared by the Aurora Scrap development team.
+
 ## Compare three references before choosing a design
 
 Use the free comparison worksheet to separate observations, interpretations, and a design decision. Fill it in manually; the app does not automatically compare or score pages.
